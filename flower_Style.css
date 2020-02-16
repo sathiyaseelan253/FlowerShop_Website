@@ -1,0 +1,56 @@
+.start {
+    color: blue;
+    padding: 5px 10px;
+    padding-left: 20px;
+    font-size: 25px;
+    text-shadow: blue 1px 1px ;  
+}
+.space{
+    margin: 5px;
+}
+
+.greenbar {
+    background-color: olivedrab;
+    padding : 15px 18px;
+   
+    /* vertical-align: inherit; */
+    color: white;
+}
+.card-greenbar{
+    background-color:olivedrab;
+    padding: 6px 18px;
+    width: 800px;
+    color: white;
+}
+.lastContent{
+    background-color: olivedrab;
+    color: white;
+}
+
+.dropDown {
+    background-color: white;
+    width: 200px;
+}
+a {
+    text-decoration: none;
+    
+}
+#underline {
+    text-decoration: underline;
+}
+
+
+.rowspacing {
+    line-height:35px;
+}
+
+   
+
+.Refund{
+    color: rgb(79, 79, 239);
+    font-size: medium;
+}
+.Decision{
+    width: 90%;
+    padding: 2px 3px;
+}
